@@ -1,2 +1,2 @@
-# supermathbros
-an actually FUN education game
+# Super Math Bros
+an actually FUN educational game
