@@ -10,7 +10,7 @@ It is made in scratch and modified in turbowarp to give 60fps,
 
 widescreen and more. there is also going to be a collection
 
-with this and others like Super Spelling Bros or Super Language
+with this and others like Super Spelling Bros and Super Language
 
 Bros. It is also co-op with online multiplayer coming post-release
 
