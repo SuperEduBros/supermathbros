@@ -1,5 +1,6 @@
 # Super Math Bros
 an actually FUN educational game
+(PLAY AT: https://superedubros.github.io/supermathbros/)
 
 ## about
 SuperMathBros is a maths game made to entertain you at school, home
